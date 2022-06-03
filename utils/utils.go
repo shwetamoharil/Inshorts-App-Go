@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	FILENAME = "/home/shweta/go/src/Inshorts/articles.json"
+	FILENAME = "articles.json"
 	LIMIT    = 10
 )
 
